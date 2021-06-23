@@ -1,0 +1,34 @@
+{
+  "projectName": "NuGet Package Explorer",
+  "showProjectName": true,
+  "imageFileName": "nuget-package-explorer.png",
+  "gitHubOrg": "NuGetPackageExplorer",
+  "gitHubRepoName": "NuGetPackageExplorer",
+  "transcriptFileName": "",
+  "publishDate": "2021-8-01",
+  "loadIssues": true,
+  "issueLabel": "help wanted",
+  "projectOwners": [
+    {
+      "name": "Claire Novotny",
+      "url": "https://github.com/clairernovotny"
+    }
+  ],
+  "youtubeUrl": "https://www.youtube.com/embed/UvvQerXeEUw",
+  "projectDescription": "NuGet Package Explorer (NPE) is an application that makes it easy to create and explore NuGet packages. You can load a .nupkg or .snupkg file from disk or directly from a feed such as nuget.org.",
+  "contributors": [
+    {
+      "name": "304NotModified",
+      "url": "https://github.com/304NotModified"
+    },
+    {
+      "name": "campersau",
+      "url": "https://github.com/campersau"
+    }
+  ],
+  "githubRepo": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer",
+  "projectWebsite": "https://nuget.info/",
+  "documentationUrl": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer",
+  "communityUrl": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer",
+  "contributionUrl": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/issues"
+}
